@@ -1,0 +1,9 @@
+br.com.senac.telas.RegistrarCompra
+br.com.senac.telas.RegistrarCompra$8
+br.com.senac.telas.RegistrarCompra$7
+br.com.senac.telas.RegistrarCompra$6
+br.com.senac.telas.RegistrarCompra$5
+br.com.senac.telas.RegistrarCompra$4
+br.com.senac.telas.RegistrarCompra$3
+br.com.senac.telas.RegistrarCompra$2
+br.com.senac.telas.RegistrarCompra$1
